@@ -49,21 +49,6 @@ With an elegant interface, secure authentication, and city-wise listings, **Find
 
 ---
 
-## 🧭 **Installation & Setup**
-
-Follow these steps to run **FindMyPG** locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/username/the-pg-life.git
-
-# Navigate into the project directory
-cd the-pg-life
-
-# Configure PHP and MySQL database connection
-
-# Run the project locally using a local server (e.g., XAMPP, WAMP)
-
 
 
 

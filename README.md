@@ -63,3 +63,7 @@ cd the-pg-life
 # Configure PHP and MySQL database connection
 
 # Run the project locally using a local server (e.g., XAMPP, WAMP)
+
+
+
+

@@ -39,7 +39,7 @@ This project focuses on improving the rental discovery experience for students a
 | **CSS** | Responsive and aesthetic UI styling |
 | **JavaScript** | Client-side interactivity |
 | **DBMS** | Storage for user data and listings |
-| **React** | Interactive UI components |
+
 
 ---
 

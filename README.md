@@ -24,13 +24,12 @@ With an elegant interface, secure authentication, and city-wise listings, **Find
 
 ## ⚙️ **Technology Stack**
 
-| Technology | Description | Contribution |
-|-------------|--------------|--------------|
-| 🐘 **PHP** | Backend logic, authentication, and session management. | 35% |
-| 🌐 **HTML** | Page structure and layout for content organization. | 35% |
-| 🎨 **CSS** | Styling and responsive UI for better user experience. | 15% |
-| ⚡ **JavaScript** | Front-end interactivity and user engagement. | ~6% |
-| 🗄️ **DBMS (MySQL)** | Stores user, PG listings, and booking data. | 🗂️ |
-| ⚛️ **React** | Component-based front-end for a modern UI experience. | 🖼️ |
+| Technology | Description | 
+|-------------|--------------|
+| 🐘 **PHP** | Backend logic, authentication, and session management. 
+| 🌐 **HTML** | Page structure and layout for content organization. 
+| 🎨 **CSS** | Styling and responsive UI for better user experience. 
+| ⚡ **JavaScript** | Front-end interactivity and user engagement. 
+| 🗄️ **DBMS (MySQL)** | Stores user, PG listings, and booking data. 
 
 ---

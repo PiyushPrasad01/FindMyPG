@@ -1,58 +1,36 @@
-# LIVEASY 🌟
-A one-stop solution for discovering and renting living spaces with ease.
+# 🏙️ FindMyPG – Your One-Stop Solution for Hassle-Free PG Hunting
 
 ---
 
-## 📌 About the Project
-**LIVEASY** is a user-friendly web application designed to simplify the process of finding and renting **PGs, rooms, flats, and houses**.  
-The platform allows users to explore listings based on city and amenities while ensuring secure access through authentication.
+## 🌐 **Project Overview**
 
-This project focuses on improving the rental discovery experience for students and working professionals.
+**FindMyPG** is a smart and user-friendly web platform designed to simplify the search for **Paying Guest (PG) accommodations** — whether you're a **student** or a **working professional**.
 
----
+With an elegant interface, secure authentication, and city-wise listings, **FindMyPG** helps users find, compare, and book PG accommodations effortlessly.
 
-## ✨ Features
-
-- 🔐 **Secure Authentication**  
-  User registration and login with encrypted passwords and secure session management.
-
-- 🌍 **City-based Listings**  
-  Browse and filter living spaces based on selected cities.
-
-- 🏠 **Amenity-based Search**  
-  Filter listings by Wi-Fi, meals, parking, and other essential amenities.
-
-- 📱 **Responsive Design**  
-  Optimized for desktops, tablets, and mobile devices.
-
-- 🖥️ **Session Management**  
-  Secure PHP session handling for authenticated users.
+> 💡 *Find your stay, live your way.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 **Key Features**
 
-| Technology | Purpose |
-|----------|---------|
-| **PHP** | Backend logic and session management |
-| **HTML** | Structuring web pages |
-| **CSS** | Responsive and aesthetic UI styling |
-| **JavaScript** | Client-side interactivity |
-| **DBMS** | Storage for user data and listings |
-
+- 🏠 **City-Based Listings:** Explore verified PGs in your desired city or locality.  
+- 🎯 **Smart Filters:** Filter results by Wi-Fi, meals, parking, and other amenities.  
+- 🔐 **Secure Authentication:** Password encryption and session-based login system.  
+- 📱 **Responsive Interface:** Seamless browsing across desktop, tablet, and mobile devices.  
+- 💾 **Dynamic Data Handling:** Real-time PG data storage for user profiles and listings.  
 
 ---
 
-## 🌐 Live Demo
-🔗 **LIVEASY (Live Project):** _Coming Soon_
+## ⚙️ **Technology Stack**
+
+| Technology | Description | Contribution |
+|-------------|--------------|--------------|
+| 🐘 **PHP** | Backend logic, authentication, and session management. | 35% |
+| 🌐 **HTML** | Page structure and layout for content organization. | 35% |
+| 🎨 **CSS** | Styling and responsive UI for better user experience. | 15% |
+| ⚡ **JavaScript** | Front-end interactivity and user engagement. | ~6% |
+| 🗄️ **DBMS (MySQL)** | Stores user, PG listings, and booking data. | 🗂️ |
+| ⚛️ **React** | Component-based front-end for a modern UI experience. | 🖼️ |
 
 ---
-
-## 🚀 Getting Started
-
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/username/liveasy.git
-
